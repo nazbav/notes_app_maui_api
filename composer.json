@@ -1,0 +1,15 @@
+{
+  "name": "n4v/simple_notes",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "nazbav",
+      "email": "naz.bav@list.ru"
+    }
+  ],
+  "require": {
+    "krugozor/database": "*"
+  }
+}
